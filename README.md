@@ -8,8 +8,8 @@ react-nativeによる技術課題です。今回は動作確認としてExpoを�
 ## Usage
 1.このrepositoryへ移動します  
 ~~~
-git clone git@github.com:yoshiddddd/stok_react-native-issue.git
-cd stok_react-native-issue
+git clone git@github.com:yoshiddddd/franky_react-native-issue.git
+cd franky_react-native-issue
 ~~~
 
 2.npmでexpoをインストールします  
