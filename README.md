@@ -1,6 +1,6 @@
 ## Overview
 react-nativeによる技術課題です。今回は動作確認としてExpoを使用しました。
-## Requirement
+## development environment
 -macOS  
 -expo 6.3.10  
 -node 18.19.0  
