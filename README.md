@@ -5,6 +5,10 @@ react-nativeによる技術課題です。今回は動作確認としてExpoを�
 -expo 6.3.10  
 -node 18.19.0  
 -npm 10.2.3  
+
+## 検証環境
+ios  
+
 ## Usage
 1.このrepositoryへ移動します  
 ~~~
